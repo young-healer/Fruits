@@ -1,0 +1,12 @@
+.card-styles {
+  width: 250px;
+  height: 250px;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-text {
+  font-size: 1rem;
+}

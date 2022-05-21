@@ -1,0 +1,12 @@
+.input-btn-card {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.input-style {
+  width: 250px;
+  height: 250px;
+  margin: 15px;
+}
